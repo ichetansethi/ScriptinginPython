@@ -1,7 +1,7 @@
 EMAIL = "[EMAIL_ADDRESS]"
 APP_PASSWORD = "[GMAIL_APP_PASSWORD]"
 
-RESUME_PATH = "ChetanSethi_SDE1Resume.pdf"
+RESUME_PATH = "[RESUME_PATH]"
 
 JOB_ROLES = [
     "Software Engineer",
